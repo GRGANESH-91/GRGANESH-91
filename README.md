@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm G R GANESH 👋
 
-<!--
-**GRGANESH-91/GRGANESH-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diploma student in Computer Science & Engineering.  
+Currently learning Python and building foundations in AI/ML.
 
-Here are some ideas to get you started:
+I'm deeply curious about the nature of intelligence —  
+what it is, how it emerges, and whether something deeper is shaping the systems we live in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring questions around:
+- Universal computation
+- The limits and origins of intelligence
+- Order, chaos, and control in complex systems
+
+Still early in the journey. Learning in public.
+
+---
+
+**Available for Internships**  
+I focus on learning by doing rather than only applying what I already know.  
+Open to roles where I can contribute, grow, and take real responsibility.
